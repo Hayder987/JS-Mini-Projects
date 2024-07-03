@@ -1,0 +1,99 @@
+.container{
+    background: url(/background-2.jpg) fixed no-repeat;
+    background-size: 1450px 920px;
+    width:100vw;
+    height:100vh;
+}
+.navbartop{
+    background-color: black;
+    width:100%;
+    
+    
+}
+.profile1{
+    border-radius: 100%;
+    margin: 0 1rem;
+}
+
+
+#city{
+    background-color: rgb(50, 103, 248);
+    margin-left:-20px;
+    width:300px;
+    box-shadow: 1px 2px 2px 2px  rgb(205, 205, 230);
+    border-radius: 0;
+    color:aliceblue;
+    font-size:1.3rem;
+}
+.searchbar1{
+    margin:2rem 3rem
+}
+#submit{
+background-color: #061849;
+color:antiquewhite;
+width:60px;
+margin-left:-10px;
+border-radius: 0;
+}
+#cityName{
+    font-size: 3rem;
+    font-family: 'New Tegomin', serif;
+    font-family: 'Roboto Serif', serif;
+    font-weight: bolder;
+    
+    
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    
+}
+.card2{ 
+    background: url(/background-1.jpg) no-repeat center;
+    background-size: 680px 520px;
+    width:100%;
+    height:40%;
+     
+
+}
+
+.text1{
+    gap:1rem;
+    font-size: 1.3rem;
+    text-align: left;
+    margin-left: 40px;
+    
+    
+}
+#temp2{
+    color:rgb(207, 246, 15);
+    font-size: 4rem;
+}
+.title-1{
+    color:azure;
+    padding: 2rem 0;
+
+}
+.icon{
+  color:rgb(240, 168, 251);
+
+}
+.textdata{
+    font-style: italic;
+    color:rgb(178, 223, 251) ;
+    font-family: 'New Tegomin', serif;
+    font-family: 'Roboto Serif', serif;
+    font-weight: bold;
+}
+.valuedata{
+    color:rgb(134, 234, 166)
+}
+.footertext{
+    margin-left: 2rem;
+    font-size: 1.1rem;
+}
+.footerlink{
+    margin:2rem;
+}

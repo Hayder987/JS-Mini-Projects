@@ -1,0 +1,40 @@
+
+
+body{
+    background-color: black;
+    color:white;
+}
+#demo, #demo2{
+    font-size: 2rem;
+    padding:0.2rem;
+    margin-left: 2rem;
+    color:aqua;
+}
+h2{
+    margin-left: 2rem;   
+}
+#form, #form-2{
+padding:1rem;
+}
+#input1, #input2{
+    border:none;
+    padding:0.5rem;
+    font-size: 1.3rem;
+    background-color: rgb(96, 55, 220);
+    color:aliceblue;
+}
+.f{
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+.btn{
+    padding:0.5rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    background-color:rgb(228, 21, 21);
+    color:white;
+}
+.btn-submit{
+    background-color: rgb(5, 100, 21);
+    margin-left: 2rem;
+}
